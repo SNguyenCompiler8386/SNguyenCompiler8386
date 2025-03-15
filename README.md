@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SNguyenCompiler8386
-- 👀 I’m interested in \newthings
-- 🌱 I’m currently learning newthings
-- 💞️ I’m looking to collaborate on newthings
-- 📫 How to reach me i
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @SNguyenCompiler8386 or Call ME SNguyen or (SKhanh Phat Nguyen)
+- 👀 I’m interested in math - technology - AI _ programming and more
+- 🌱 I’m currently learning Math - Programming and AI
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me:
+  Coming Soon...
 
 <!---
 SNguyenCompiler8386/SNguyenCompiler8386 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
